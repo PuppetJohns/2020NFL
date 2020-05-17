@@ -1,4 +1,4 @@
-Baltimore Ravens, BAL
+esBaltimore Ravens, BAL
 OL,Bradley Bozeman,24,2018,64,60,82,80,74,72,0.6,4
 OL,Hroniss Grasu,27,2015,64,74,83,78,72,69,0.8,1
 OL,Matt Skura,25,2017,65,71,85,86,71,71,0.6,1
@@ -121,7 +121,7 @@ WR,Rod Streater,30,2012,70,72,90,83,88,71,0.8,1
 WR,Derrick Willies,24,2018,64,57,86,85,91,63,0.6,3
 END_PLAYERS
 Cincinnati Bengals, CIN
-QB, Joe Burrow,23,2020,85,76,85,83,80,75,0.5,4
+QB,Joe Burrow,23,85,76,85,83,80,75,0.5,4
 OL,Billy Price,23,2018,75,64,87,88,81,79,2.9,4
 CB,Davontae Harris,23,2018,68,56,90,76,91,56,0.7,4
 CB,William Jackson,26,2016,84,81,91,85,93,54,2.4,4
@@ -179,7 +179,8 @@ WR,Alex Erickson,26,2016,66,63,88,80,88,61,2.3,2
 WR,A.J. Green,30,2011,93,98,96,93,90,84,15.0,4
 WR,Josh Malone,22,2017,70,68,86,83,92,64,0.7,4
 WR,John Ross,24,2017,76,63,92,82,97,85,4.3,4
-WR,Auden Tate,21,2018,68,57,87,80,85,62,0.6,4
+WR,Auden Tate,22,2018,68,57,87,80,85,62,0.6,4
+WR,Tee Higgins,21,2020,76,68,79,80,82,69,0.5,4
 END_PLAYERS
 Pittsburgh Steelers, PIT
 OL,B.J. Finney,27,2016,70,70,84,84,73,77,0.6,1
@@ -550,8 +551,8 @@ END_PLAYERS
 Jacksonville Jaguars, JAX
 OL,Brandon Linder,26,2014,89,89,79,89,89,90,10.3,5
 OL,Tyler Shatley,27,2014,66,66,75,95,72,69,1.0,2
-CB,Tre Herndon,22,2018,67,68,89,91,80,56,0.6,3
-CB,Jalen Ramsey,24,2016,97,97,91,93,93,72,5.8,4
+CB,Tre Herndon,23,2018,67,68,89,91,80,56,0.6,3
+CB,C.J Henderson,22,2020,71,74,83,83,84,60,1.0,4
 CB,A.J. Bouye,27,2013,94,96,91,66,89,96,13.5,5
 S,Barry Church,30,2010,83,86,90,69,84,86,6.5,4
 S,Cody Davis,29,2013,78,70,86,55,90,70,2.6,2
@@ -784,7 +785,8 @@ RB,LeSean McCoy,30,2009,90,88,92,54,90,87,8.0,5
 RB,Anthony Sherman,30,2011,75,83,87,68,78,52,2.0,1
 RB,Spencer Ware,27,2013,79,86,89,88,87,77,1.8,2
 RB,Damien Williams,26,2014,79,77,86,72,91,83,1.2,1
-RB,Darrel Williams,23,2015,65,55,81,80,83,73,0.6,3
+RB,Darrel Williams,24,2015,65,55,81,80,83,73,0.6,3
+RB,Clyde E.Helaire,21,2020,70,77,73,65,80,70,0.6,3
 WR,Alex Ellis,25,2016,65,51,82,76,79,39,0.6,1
 WR,Demetrius Harris,27,2014,73,76,82,77,86,65,2.1,3
 WR,Travis Kelce,29,2013,95,95,87,92,85,70,9.4,5
@@ -848,6 +850,7 @@ RB,Devontae Booker,26,2016,76,80,93,78,88,82,0.7,4
 RB,Royce Freeman,22,2018,73,66,90,86,88,72,1.0,4
 RB,Phillip Lindsay,24,2018,76,73,93,90,88,54,0.6,3
 WR,Jake Butt,23,2017,74,60,86,83,81,64,0.7,4
+WR,Jerry Jeudy,22,2020,79,74,80,77,76,79,0.5,4
 WR,Troy Fumagalli,23,2018,70,59,84,77,78,55,0.7,4
 WR,Noah Fant,21,2019,78,73,89,78,89,73,0.7,4
 WR,Jeff Heuerman,26,2015,74,66,89,79,79,49,0.7,4
@@ -985,6 +988,7 @@ WR,Martavis Bryant,27,2014,81,83,89,85,93,71,0.7,1
 WR,Dwayne Harris,31,2011,69,79,93,80,86,87,1.0,1
 WR,Brandon LaFell,32,2010,79,87,88,88,86,65,1.8,1
 WR,Seth Roberts,27,2014,77,83,84,83,90,73,4.0,3
+WR,Henry Ruggs,21,2020,80,78,84,84,90,81,1.0,4
 END_PLAYERS
 Chicago Bears, CHI
 OL,James Daniels,21,2018,74,70,86,83,79,79,1.7,4
@@ -1668,7 +1672,8 @@ OL,Kaleb McGary,24,2019,70,73,88,87,69,68,0.6,4
 OL,Chris Lindstrom,22,2019,75,74,93,87,72,71,0.7,4
 S,Ricardo Allen,27,2014,84,87,94,81,89,66,6.5,3
 S,Damontae Kazee,25,2017,73,70,94,71,88,68,0.7,4
-CB,Isaiah Oliver,22,2018,73,62,93,74,89,55,1.2,4
+CB,Isaiah Oliver,23,2018,73,62,93,74,89,55,1.2,4
+CB,A.J Terrell,22,2020,66,70,76,80,89,62,0.5,4
 CB,Brian Poole,26,2016,79,81,90,82,89,66,0.5,3
 CB,Robert Alford,30,2013,85,82,92,52,92,82,9.5,4
 CB,Justin Bethel,28,2012,74,70,92,69,87,70,1.8,1
@@ -1722,6 +1727,7 @@ WR,Calvin Ridley,24,2018,77,64,90,81,93,85,2.7,4
 WR,Mohamed Sanu,29,2012,81,86,82,82,82,82,6.5,5
 END_PLAYERS
 Los Angeles Rams, LAR
+CB,Jalen Ramsey,24,2016,97,97,91,93,93,72,5.8,4
 OL,Brian Allen,23,2018,66,58,82,81,76,73,0.8,4
 OL,Austin Blythe,26,2016,65,66,93,82,73,70,0.6,4
 OL,John Sullivan,33,2008,78,87,89,86,77,80,5.4,2
@@ -1949,6 +1955,7 @@ LB,Gabe Martin,26,2015,69,52,83,81,66,64,0.6,2
 LB,Haason Reddick,24,2017,75,72,87,80,71,51,3.4,4
 LB,Ezekiel Turner,22,2018,61,53,89,68,51,66,0.6,3
 LB,Joe Walker,26,2016,67,66,88,84,67,58,0.6,1
+LB,Isaiah Simmons,22,2020,90,81,88,83,73,79,1.5,4
 OL,Aaron Brewer,28,2012,44,67,84,68,53,57,1.0,4
 OL,Mike Iupati,31,2010,76,74,80,92,82,72,8.0,5
 OL,Justin Pugh,28,2013,80,87,92,88,78,78,9.0,5
@@ -1975,10 +1982,3 @@ WR,J.J. Nelson,26,2015,77,74,88,84,96,80,0.6,4
 WR,Trent Sherfield,22,2018,64,49,41,90,87,54,0.6,3
 WR,Chad Williams,24,2017,69,55,89,84,90,73,0.8,4
 END_PLAYERS
-
-
-
-
-
-
-
